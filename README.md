@@ -64,9 +64,3 @@ The supplied notebooks contain tutorial-style material and an existing source cr
 CI checks notebook JSON and Python syntax. Full neural training was not run during packaging because the required datasets and embeddings were not included. This repository provides research notebooks, without an API or production model service.
 
 
-## Contributing and provenance
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution workflow and
-[NOTICE.md](NOTICE.md) for source provenance and reuse terms. Dataset licenses
-are separate from code rights. No open-source license was present in the supplied
-materials, so no blanket license has been added.
